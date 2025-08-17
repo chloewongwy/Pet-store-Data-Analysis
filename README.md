@@ -1,2 +1,4 @@
 # Pet-store-Data-Analysis
-Pet store data cleaning and analysis
+Conduct data cleaning and analysis on a set of pet store data to find out the behaviors or characteristics of most customers when choosing to purchase products.
+<br>
+Project Year: 2022
