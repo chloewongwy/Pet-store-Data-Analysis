@@ -3,5 +3,5 @@ Conduct data cleaning and analysis on a set of pet store data to find out the be
 <br><br>
 Project Year: 2022
 <br><br>
-<b>Flow</b><br>
+<b>Flow:</b><br>
 Data cleaning --> data analysis (Qualitative	& Quantitative data)
